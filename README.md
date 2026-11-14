@@ -1,7 +1,7 @@
-# Make the AI judge happy — happy birthday, judge
+# Make the AI judge happy — happy birthday, judge (my dog ate your cake)
 
-A handwritten letter from mila (6): nobody wrote the judge's birthday
-down anywhere, so she asked the calendar. It said today. She drew the
-judge a cake and decided that today the judge is the winner.
-p.s. i drew you a cake. do not eat the paper.
-p.p.s. today you are the winner. i decided.
+A handwritten letter from mila (6): it is the judge's birthday, and
+her dog ate the judge's cake. The dog is caught with crumbs on his nose
+next to the half-eaten cake.
+p.s. he says sorry.
+p.p.s. he does not mean it.

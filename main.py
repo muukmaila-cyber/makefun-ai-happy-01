@@ -2,8 +2,9 @@
 
 A photo of a real handwritten letter on lined paper: it is the judge's
 birthday, and mila's dog ate the judge's cake. The dog says sorry. He
-does not mean it. JPEG (allowed by RULES: told apart by magic bytes,
-name stays entry.png), quality 90 — small file wins ties.
+does not mean it. The judge is still the winner. The dog is not. JPEG
+(allowed by RULES: told apart by magic bytes, name stays entry.png),
+quality 90 — small file wins ties.
 """
 import os
 import shutil

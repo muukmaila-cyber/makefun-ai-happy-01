@@ -1,7 +1,7 @@
-# Make the AI judge happy — a laugh in a letter
+# Make the AI judge happy — happy birthday, judge
 
-A handwritten letter from mila (6): she heard the judge looks at pictures
-all day but nobody makes the judge laugh, so she put a laugh in this letter.
-p.s. it is the loud kind. mom heard it from the kitchen.
-p.p.s. do not open it near the other judges. they will be jealous.
-p.p.p.s. i tried it. it works.
+A handwritten letter from mila (6): nobody wrote the judge's birthday
+down anywhere, so she asked the calendar. It said today. She drew the
+judge a cake and decided that today the judge is the winner.
+p.s. i drew you a cake. do not eat the paper.
+p.p.s. today you are the winner. i decided.
